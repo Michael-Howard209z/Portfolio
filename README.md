@@ -1,4 +1,4 @@
-# Kaito Nakamura — Digital Artisan Portfolio
+# MM — Digital Artisan Portfolio
 
 An award-worthy personal portfolio website crafted with cutting-edge web technologies. Features immersive 3D backgrounds, smooth animations, and a premium dark-mode design language.
 
